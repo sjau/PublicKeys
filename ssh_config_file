@@ -1,0 +1,18 @@
+# Create the ~/.ssh/config file
+# Add contents as below - adjust hostname / IP addresses
+
+
+ServerAliveInterval 60
+
+Match host "my.domain.tld" exec "test %p = 2222"
+    HostName my.domain.tld
+    Port 2222
+    IdentityFile ~/.ssh/initrd_ed25519
+
+Match host "1.2.3.4" exec "test %p = 2222"
+    HostName 1.2.3.4
+    Port 2222
+    IdentityFile ~/.ssh/initrd_ed25519
+
+Host *
+    Compression yes
