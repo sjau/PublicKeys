@@ -32,7 +32,7 @@
         # Uni
         "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIMoXeYrk+KwRVYWtJeiGn8AgQnkR8EdRc/FtvwqmO6/Z h-vpn"
         "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIi75WtzarH/H+CbvK7GwSquPe8TsA9IDhKk1I/yGD4a r-vpn"
-        "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIORzJO23O+bFiMPd0dh4BAl8GCcg/9/VhPeBsANvu1u5 r-dns1"
+        "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIAsXkmBw1DCsEU7COd9M3mUVBO/+qPnkC4/lHZLuFrV r-dns1"
         "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILHaMi2w6NRHIOQRtu2333KotLdiQPJzQdR+02dAd50h r-dns2"
         "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIGpVdfh6GJfgbiagjumIhi56n6Uc4qz48qsZzSqa27MP minis"
     ];
